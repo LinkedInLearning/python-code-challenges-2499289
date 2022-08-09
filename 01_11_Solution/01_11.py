@@ -4,7 +4,7 @@ from tkinter import *
 
 # Objekt der Klasse Tk erstellt und Fensterüberschrift
 
-fenster = Tk()          
+fenster = Tk()
 
 fenster.wm_title("Uhrzeit")
 
@@ -12,13 +12,11 @@ fenster.wm_title("Uhrzeit")
 
 uhr = Label(master=fenster,
 
-            font=('Arial',30),
+            font=('Arial', 30),
 
             fg='blue',
 
-            width = 15,
-
-            height = 3)
+            width=15)
 
 uhr.pack()
 
@@ -30,7 +28,8 @@ zeit = ''
 
 # mit after wird nach 0,2sek die Funktion tick neu aufgerufen
 
-def tick(  ):
+
+def tick():
 
     global zeit
 
@@ -40,11 +39,11 @@ def tick(  ):
 
         zeit = neuezeit
 
-        uhr.config(text = zeit) 
+        uhr.config(text=zeit)
 
-    uhr.after(200, tick) 
+    uhr.after(1000, tick)
+
 
 tick()
 
-uhr.mainloop() # Programm startet 
-
+uhr.mainloop()  # Programm startet
