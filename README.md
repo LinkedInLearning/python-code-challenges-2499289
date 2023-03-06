@@ -2,7 +2,7 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `Code-Challenges für Python`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![2499289_de_DE_TN](https://user-images.githubusercontent.com/61017085/200605874-64528780-1de2-432a-966a-4b913150cd7e.jpg)
+![COURSENAME][lil-thumbnail-url] 
 
 Hinter den Code-Challenges stecken kompakte spannende Programmierrätsel auf unterschiedlichen Schwierigkeitsstufen, mit denen Sie Ihre vorhandenen Python-Skills testen oder weitere neu hinzulernen können. Die 15 Aufgaben demonstrieren jeweils eine praktische Anwendung in verschiedenen Situationen aus dem Programmieralltag.
 Zu jeder Aufgabe liefert Ihr Trainer Ralph Steyer gleich die passende Lösung, doch können Sie Ihren Lösungsweg auch ganz leicht mitprogrammieren und testen, denn dieser Kurs zeichnet sich durch eine nahtlose Integration von GitHub Codespaces, einer cloudbasierten Entwicklungsumgebung (IDE), aus.
@@ -30,4 +30,4 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/code-challenges-fur-python
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2499289/2499289-1668174417932-16x9.jpg
